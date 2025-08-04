@@ -2,6 +2,10 @@
 
 Um servidor MCP completo para integração com Sentry no Cursor, oferecendo 27 ferramentas para monitoramento de erros, performance e saúde de aplicações.
 
+<a href="https://glama.ai/mcp/servers/@diegofornalha/sentry-mcp-cursor">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@diegofornalha/sentry-mcp-cursor/badge" alt="Sentry para Cursor MCP server" />
+</a>
+
 ## ✨ Características
 
 - **27 Ferramentas Completas**: 12 SDK + 15 API
